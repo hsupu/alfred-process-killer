@@ -1,5 +1,5 @@
 {
-	"version": 2.0,
-	"download_url": "https://github.com/tridays/alfred-process-killer/blob/master/Kill.Process.alfredworkflow?raw=true",
-	"description": "A easy way to kill process."
+	"version": 2.1,
+	"download_url": "https://github.com/tridays/alfred-process-killer/blob/master/Process.Killer.alfredworkflow?raw=true",
+	"description": "fix typo."
 }

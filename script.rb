@@ -90,7 +90,7 @@ processes.each do | process |
     # Append this process's XML string to the global XML string.
     xml += "\t<item uid=\"#{cmd}\" arg=\"#{kill_script},#{pid},#{name}\">
         <title>[#{pid}] #{name}</title>
-        <subtitle>[#{uid}] #{user} #{cpu_used}% CPU #{mem_used}% CPU @ #{cmd}</subtitle>
+        <subtitle>[#{uid}] #{user} #{cpu_used}% CPU #{mem_used}% MEM @ #{cmd}</subtitle>
         <icon type=\"#{iconType}\">#{iconValue}</icon>
     </item>\n"
 
