@@ -45,7 +45,9 @@ see the [second screenshot](example2.png).
 
 ## Installation
 
-Download [version 1.0](https://github.com/tridays/alfred-process-killer/blob/master/Kill%20Process.alfredworkflow?raw=true). Open `Kill Process.alfredworkflow` and Alfred will walk you through the installation process. No configuration is necessary.
+Download the [release version](https://github.com/tridays/alfred-process-killer/releases). Open it and Alfred will walk you through the installation process.
+
+No configuration is necessary.
 
 ## Making Changes
 
